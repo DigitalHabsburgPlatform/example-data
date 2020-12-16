@@ -23,3 +23,5 @@ An additional challenge is posed by the fact that these lists merely deal with *
 Attempts to define the offices related to the labels listed here have been started using <https://www.w3.org/2004/02/skos/> already during the workshop, but remain subject to further research, and additional linking to existing thesauri and vocabularies. 
 
 The team would like to thank all contributors of the workshop sessions. 
+
+[![DOI](https://zenodo.org/badge/322104558.svg)](https://zenodo.org/badge/latestdoi/322104558)
