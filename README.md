@@ -13,6 +13,8 @@ Several distinct datasets were created by workshop participants in a group effor
 
 - [DHP-I_Amtsbezeichnungen-Sammlung-MPR(APIS-Daten).csv](DHP_I_Administration/DHP-I_Amtsbezeichnungen-Sammlung-MPR(APIS-Daten).csv) is a CSV dump of titles and labels from the <https://mpr.acdh.oeaw.ac.at/> ‘modulare prosopographische registratur’ APIS entity store used – among other projects – for 19th century ministerial council data from the <https://mrp.oeaw.ac.at/> ‘Ministerratsprotokolle’ digital scholarly edition.
 
+- [mpr.institutions.json](DHP_I_Administration/mpr.institutions.json) is related to the Ministerratsprotokolle edition as well, it holds the institutions so far recorded within the MPR instance, with about 1680 entries, including links to <https://alex.onb.ac.at> -- in JSON format.
+
 - [DHP-I_Amtsbezeichnungen-Sammlung-Personenregister_VWGI_1_Funktionen.csv](DHP_I_Administration/DHP-I_Amtsbezeichnungen-Sammlung-Personenregister_VWGI_1_Funktionen.csv) contatins a carefully excerpted sizable list of distinct office titles (that has further been curated by removing interesting outliers such as ‘Tochter’). It stems from the index of the monumental  
     > Michael Hochedlinger, Petr Mat'a, Thomas Winkelbauer (eds.), *Verwaltungsgeschichte der Habsburgermonarchie in der Frühen Neuzeit, Band 1: Hof und Dynastie, Kaiser und Reich, Zentralverwaltungen, Kriegswesen und landesfürstliches Finanzwesen* (<https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/transnationaleglobalgeschichte/39510/verwaltungsgeschichte-der-habsburgermonarchie-in-der-fruehen-neuzeit>)  
 
